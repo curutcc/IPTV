@@ -1,6 +1,6 @@
 =============================================  PERBAIKAN  =============================================
 =====================================================================================================
-( #EXTINF:0 tvg-logo="http://tinyurl.com/live-afc" group-title="PERBAIKAN",AFC Live 1
+ #EXTINF:0 tvg-logo="http://tinyurl.com/live-afc" group-title="PERBAIKAN",AFC Live 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -13,7 +13,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/m
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",Indosiar
-http://iptvtree.net:8080/F14995/a84c0963/162138 )
+http://iptvtree.net:8080/F14995/a84c0963/162138 
 
 
 

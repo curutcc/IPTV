@@ -1,5 +1,718 @@
 //======================================================================== //Collected by iptv.urfan.id menampilkan playlist >>> INDONESIA TV //======================================================================== 
 
+#EXTINF:-1,Miami TV achoAPPS.com
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1,Jasmin TV achoAPPS.com
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,BRAZZERS 1 achoAPPS.com
+http://static.brazzers.com/scenes/7119/180sec.flv
+
+#EXTINF:-1,BRAZZERS 2 achoAPPS.com
+http://static.brazzers.com/scenes/5457/180sec.flv
+
+#EXTINF:-1,BRAZZERS 3 achoAPPS.com
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:-1,BRAZZERS 4 achoAPPS.com
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:-1,XXX AdultosVOD3D-1+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+
+#EXTINF:-1,XXX AdultosVOD3D-10+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-11+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-13+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-15+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-16+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-20+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-21+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-25+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-26+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-3+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-4+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-5+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-6+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-7+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-8+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-9+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+
+#EXTINF:-1,XXX-Babes 19 achoAPPS.com
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+
+#EXTINF:-1,Chichi Medina achoAPPS.com
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+
+#EXTINF:-1,Chloe Foster achoAPPS.com
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+
+#EXTINF:-1,Dakota Skye achoAPPS.com
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+
+#EXTINF:-1,Demida achoAPPS.com
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+
+#EXTINF:-1,Dusya achoAPPS.com
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+
+#EXTINF:-1,Nubile2 achoAPPS.com
+http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucking_her_right_long_640.mp4
+
+#EXTINF:-1,Nubile3 achoAPPS.com
+http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
+
+#EXTINF:-1,Nubile5 achoAPPS.com
+http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
+
+#EXTINF:-1,SELEN achoAPPS.com
+http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
+
+#EXTINF:-1,SIGNORE SC@ND@LOSE DI PROVINCI@ achoAPPS.com
+http://videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4
+
+#EXTINF:-1,R@tte e Sf@ndate achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
+
+#EXTINF:-1,Le P@rcone Volanti achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/a/f/573af2c3cc340.mp4
+
+#EXTINF:-1,Filomena M@rtusano achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
+#EXTINF:-1,French Maid To Hire 3 XXX - 720p			
+http://vod3.freeddns.org:80/14920271211/french-maid-to-hire-3-720p.mp4
+#EXTINF:-1,Soccer Teens United XXX - 720p			
+http://vod3.freeddns.org:80/195181173146/soccer-teens-united-720p.mp4
+#EXTINF:-1,WWE Wrestlemania XXX 30			
+http://vod1.freeddns.org:80/13774202158/Wrestle30.mp4
+#EXTINF:-1,WWE Wrestlemania XXXI 31			
+http://vod1.freeddns.org:80/148251187141/Wrestle31.mp4
+#EXTINF:-1,XXX -  Blacked - Lena Anderson			
+http://vod3.freeddns.org:80/195181173146/Blacked-LenaAndersonBreeDaniels.mp4
+#EXTINF:-1,XXX -  Deeper.19.12.28 Gabbie Carter			
+http://vod3.freeddns.org:80/195181173146/deeper.19.12.28.gabbie.carter.mp4
+#EXTINF:-1,XXX -  Milfty - Chanel Preston - Stepmoms Special Frosting 09.08.2019			
+http://vod3.freeddns.org:80/195181173146/milfty.19.08.09.chanel.preston.stepmoms.special.frosting.mp4
+#EXTINF:-1,XXX -  -MOC 19.11.10 Riley Reid			
+http://vod3.freeddns.org:80/195181173146/monstersofcock.19.11.10.riley.reid.mp4
+#EXTINF:-1,XXX -  PureTaboo.19.08.29.Athena Faris Daughter Caught			
+http://vod3.freeddns.org:80/195181173146/puretaboo.19.08.29.athena.faris.daughter.caught.stripping.mp4
+#EXTINF:-1,XXX -  The Best By Private 213 Best Of 2013			
+http://vod3.freeddns.org:80/195181173146/best-of-2013-720p.mp4
+#EXTINF:-1,XXX - [MommyGotBoobs] Brandi Love - Cleaning Up His Mess (14.01.2018)			
+http://vod3.freeddns.org:80/51254199141/BrandiLoveMilf.mp4
+#EXTINF:-1,XXX - 10 Little Asians 20			
+http://vod3.freeddns.org:80/195181173146/10-little-asians-20-720p.mp4
+#EXTINF:-1,XXX - 100 Percent Real Teen Swingers-They\re Barely 18 (2015)			
+http://vod3.freeddns.org:80/217182172100/100PercentSwing.mp4
+#EXTINF:-1,XXX - 100 UNCENSORED Japanese HD Shots - Part 1 (720p)			
+http://vod3.freeddns.org:80/1492028071/100Jap.mp4
+#EXTINF:-1,XXX - 100% American Teen			
+http://vod3.freeddns.org:80/217182172100/100pctAmerican.mp4
+#EXTINF:-1,XXX - 100% Real Senior Swingers			
+http://vod3.freeddns.org:80/51254199141/Senior.mp4
+#EXTINF:-1,XXX - 17 Best Schoolgirls			
+http://vod3.freeddns.org:80/195181173146/17-best-schoolgirls-720p.mp4
+#EXTINF:-1,XXX - 18 Eighteen teens 2			
+http://vod1.freeddns.org:80/13774202158/Jizzed2.mp4
+#EXTINF:-1,XXX - 1st Prince 2 - part 1			
+http://vod1.freeddns.org:80/13774202158/xxx/1stPrince2-s00e04.mp4
+#EXTINF:-1,XXX - 2 Hole 3 Somes 2 XXX			
+http://vod1.freeddns.org:80/1518018170/gush.2.hole.3.somes.2.mp4
+#EXTINF:-1,XXX - 2 Hour Brazzers Cumshot Compilation			
+http://vod1.freeddns.org:80/1482511210/Compilation.mp4
+#EXTINF:-1,XXX - 3 Stunden Gang Bang Bukkake GERMAN.XXX			
+http://vod3.freeddns.org:80/51254199141/3Stunden.mp4
+#EXTINF:-1,XXX - 3way Becca Diamond+ Vanessa Luna  ap12694			
+http://vod1.freeddns.org:80/13774202158/ap12694-720p.mp4
+#EXTINF:-1,XXX - 4 Passionate Women			
+http://195.181.173.146:80/video/4-passionate-women-720p.mp4
+#EXTINF:-1,XXX - 40 And Bending Over XXX			
+http://vod3.freeddns.org:80/195181173146/40-and-over-bending-over-720p.mp4
+#EXTINF:-1,XXX - 40 Fucking Indians 2017 XXX			
+http://vod3.freeddns.org:80/151809784/40FuckingIndians2017.mp4
+#EXTINF:-1,XXX - 41 Years Old			
+http://vod3.freeddns.org:80/151809784/series/41Years-s01e06.mp4
+#EXTINF:-1,XXX - 50 Cumshot Extravaganza XXX 720p			
+http://vod3.freeddns.org:80/195181173146/50-cumshot-extravaganza-720p.mp4
+#EXTINF:-1,XXX - 60 Minutes -Epic Pornstar Battles of 2016			
+http://vod3.freeddns.org:80/14920271211/60min.mp4
+#EXTINF:-1,XXX - 666 Angel Wicky Topmodel Total Zugepisst German.XXX			
+http://vod3.freeddns.org:80/14920271211/666angelwicky-pbu.mp4
+#EXTINF:-1,XXX - A 40 Year Old Widow XXX (Dorcel)			
+http://vod3.freeddns.org:80/195181164146/wop-40yoldwidow.mp4
+#EXTINF:-1,XXX - A granny and mature compilation			
+http://vod3.freeddns.org:80/217182172100/Granny.mp4
+#EXTINF:-1,XXX - A Mothers Love 8 XXX			
+http://vod3.freeddns.org:80/151809784/xxx/amotherslove8-s01e05.mp4
+#EXTINF:-1,XXX - Abby Lee Brazil Manuel DPs Them All 3 2015			
+http://vod3.freeddns.org:80/217182172100/122115_5aFIZ_JDLPS.mp4
+#EXTINF:-1,XXX - Abella Anderson AssParade ap9977			
+http://vod1.freeddns.org:80/13774202158/ap9977-720p.mp4
+#EXTINF:-1,XXX - Abigail Mac			
+http://vod3.freeddns.org:80/51254199141/BigAbi.mp4
+#EXTINF:-1,XXX - Abominable Black Man 10 XXX			
+http://vod3.freeddns.org:80/195181164146/AbominableBlackMan10-s01e02.mp4
+#EXTINF:-1,XXX - Absolutely Fuckable 2 [2018] XXX			
+http://vod3.freeddns.org:80/195181164146/xxx/AbsolutelyFuckable2-s01e04.mp4
+#EXTINF:-1,XXX - AbuseMe Kylie Quinn - Tie me up and treat me like a WHORE! (20.07.2016)			
+http://vod3.freeddns.org:80/151809784/AbuseMeKylieQuinn.mp4
+#EXTINF:-1,XXX - Accidentally Lesbian 3			
+http://vod1.freeddns.org:80/519692115/AccidentallyLes3.mp4
+#EXTINF:-1,XXX - Ada 18 year old 14.10.15			
+http://vod3.freeddns.org:80/151809610/AdaX.mp4
+#EXTINF:-1,XXX - Addison Belgium Interracial			
+http://vod3.freeddns.org:80/195181164146/AddisonBelgiumInterracial.mp4
+#EXTINF:-1,XXX - Adriana Malao Ebony bkb13617			
+http://vod1.freeddns.org:80/13774202158/bkb13617-720p.mp4
+#EXTINF:-1,XXX - Adrienne Kiss Der Amateur Teufel GERMAN XXX			
+http://vod3.freeddns.org:80/195181164146/tatlov-adriennekissderamateurteufel.mp4
+#EXTINF:-1,XXX - Adult Alexa Pierce AssParade ap13518			
+http://vod1.freeddns.org:80/13774202158/ap13518-720p.mp4
+#EXTINF:-1,XXX - After School Threesomes XXX			
+http://vod3.freeddns.org:80/195181164146/AfterSchool.mp4
+#EXTINF:-1,XXX - Against My Religion (Pretty Dirty) XXX 2017			
+http://vod3.freeddns.org:80/151809784/xxx/againstmyreligion-s01e04.mp4
+#EXTINF:-1,XXX - Alex Legend 31/08/17 Cumshot Compilation 105 Monster Loads XXX			
+http://vod3.freeddns.org:80/195181164146/AlexLegend.17.08.31.Cumshot.Compilation.105.Monster.Loads.XXX.SD.MP4-KLEENEX.mp4
+#EXTINF:-1,XXX - Alexis Adams XXX Video Pack			
+http://vod3.freeddns.org:80/151809784/xxx/alexisadamsvideopack-s01e13.mp4
+#EXTINF:-1,XXX - Alexis Fawx XXX TOP Actress Pack NEW 2016			
+http://vod3.freeddns.org:80/1518026228/xxx/alexisfawx-s01e12.mp4
+#EXTINF:-1,XXX - Alexis Texas XXX Top Actress Pack 2016			
+http://vod3.freeddns.org:80/151809784/xxx/alexistexastopactresspack-s01e22.mp4
+#EXTINF:-1,XXX - Alice in Wonderland (UnCensoredEng) XXX Hentai			
+http://vod3.freeddns.org:80/51254199141/Wonderland.mp4
+#EXTINF:-1,XXX - Alie Rae Blacked			
+http://vod1.freeddns.org:80/13774202158/AlliRae.mp4
+#EXTINF:-1,XXX - Alison Tyler XXX Video Pack			
+http://vod3.freeddns.org:80/1492026922/AlisonTyler-s01e14.mp4
+#EXTINF:-1,XXX - All Girl Frenzy XXX			
+http://vod3.freeddns.org:80/1492028071/allgirl-s01e04.mp4
+#EXTINF:-1,XXX - All Naughty Part 1			
+http://vod3.freeddns.org:80/217182172100/AllNau.mp4
+#EXTINF:-1,XXX - Allie James Facial.For An 18 Year Old Facialfest 31/01/12  ff9620			
+http://vod1.freeddns.org:80/13774202158/ff9620-720p.mp4
+#EXTINF:-1,XXX - Allure Vol 5 XXX			
+http://vod3.freeddns.org:80/51254199141/allure-5-720p.mp4
+#EXTINF:-1,XXX - Amateur Angels 27 (Asian) XXX			
+http://vod1.freeddns.org:80/1518018170/xxx/AmateurAngels27-s01e05.mp4
+#EXTINF:-1,XXX - Amateur Girls Slurp Cock XXX			
+http://vod3.freeddns.org:80/195181164146/amateur-girls-slurp-cock-720p.mp4
+#EXTINF:-1,XXX - Amateur Introductions 17			
+http://vod1.freeddns.org:80/148251187141/Ama17.mp4
+#EXTINF:-1,XXX - Amateur Street Pickups 5			
+http://vod1.freeddns.org:80/13774202158/Ama5.mp4
+#EXTINF:-1,XXX - AmateurAllure Katt Dylan - Katt Ebony			
+http://vod3.freeddns.org:80/51254199141/xxx/AmateurAllure-KattDylan.mp4
+#EXTINF:-1,XXX - Amazing Female Orgasms (New Sensations) (2017)			
+http://vod3.freeddns.org:80/1492026922/xxx/AmazingFemaleOrgasms-s01e10.mp4
+#EXTINF:-1,XXX - Anal Beauty 7 - Tushy XXX			
+http://vod3.freeddns.org:80/51254199141/xxx/AnalBeauty7-s01e05.mp4
+#EXTINF:-1,XXX - Anal Brasil 19			
+http://vod3.freeddns.org:80/195181173146/anal-brasil-19-720p.mp4
+#EXTINF:-1,XXX - Anal Brats 3 (2017) XXX			
+http://vod3.freeddns.org:80/151809784/xxx/analbrats3-s01e08.mp4
+#EXTINF:-1,XXX - Anal Brats 4 (2017) XXX			
+http://vod3.freeddns.org:80/151809784/xxx/analbrats4-s01e04.mp4
+#EXTINF:-1,XXX - Anal Cuties 6 (Hard X)			
+http://vod3.freeddns.org:80/151809784/xxx/analcuties6-s01e04.mp4
+#EXTINF:-1,XXX - Anal Dementia 2 XXX			
+http://vod3.freeddns.org:80/14920271211/xxx/AnalDementia2.mp4
+#EXTINF:-1,XXX - Anal Dementia 3 XXX			
+http://vod3.freeddns.org:80/195181164146/AnalDementia3.mp4
+#EXTINF:-1,XXX - Anal Encounters 3 POV Edition			
+http://vod3.freeddns.org:80/195181173146/anal-encounters-3-720p.mp4
+#EXTINF:-1,XXX - Anal Euphoria 2 (Evil Angel ) XXX			
+http://vod3.freeddns.org:80/195181164146/AnalEuphoria2-s01e02.mp4
+#EXTINF:-1,XXX - Anal Fanatic 7			
+http://vod1.freeddns.org:80/1518018170/xxx/AnalFanatic7.mp4
+#EXTINF:-1,XXX - Anal French Milfs XXX			
+http://vod3.freeddns.org:80/145239129162/anal-french-milfs-720p.mp4
+#EXTINF:-1,XXX - Anal Mischief XXX			
+http://vod3.freeddns.org:80/51254199141/anal-mischief-720p.mp4
+#EXTINF:-1,XXX - Anal Perfections 4 XXX			
+http://vod3.freeddns.org:80/195181164146/wop-analperfections4.mp4
+#EXTINF:-1,XXX - Anal Threesomes 2 (Tushy) XXX			
+http://vod3.freeddns.org:80/151809610/AnalThreesomes2-s01e04.mp4
+#EXTINF:-1,XXX - Anal Threesomes 4 [2018] (Tushy) XXX			
+http://vod3.freeddns.org:80/195181164146/xxx/AnalThreesomes-4-s01e04.mp4
+#EXTINF:-1,XXX - Anal Tramps (Fake Taxi) XXX			
+http://vod3.freeddns.org:80/51254199141/xxx/AnalTramps-s01e04.mp4
+#EXTINF:-1,XXX - Anal Virgins 15 XXX			
+http://vod3.freeddns.org:80/217182164138/anal-virgins-15-720p.mp4
+#EXTINF:-1,XXX - Anal Workout 4 XXX			
+http://vod3.freeddns.org:80/195181164146/xxx/AnalWorkout-4.mp4
+#EXTINF:-1,XXX - Anal Young Uns 5			
+http://vod3.freeddns.org:80/51254199141/Anal5.mp4
+#EXTINF:-1,XXX - Analmals 2			
+http://vod3.freeddns.org:80/217182172100/Analmals2.mp4
+#EXTINF:-1,XXX - Anissa Kate XXX TOP Actress Pack NEW 2016			
+http://vod3.freeddns.org:80/1518026228/xxx/anissakate-s01e10.mp4
+#EXTINF:-1,XXX - Anna Bell Peaks is a freak XXX 08/12/16			
+http://vod3.freeddns.org:80/51254199141/AnnaBellPeaks.mp4
+#EXTINF:-1,XXX - AP - Alexis Texas (Alexis Claps 09/02/16)			
+http://vod1.freeddns.org:80/519692115/APAlexis.mp4
+#EXTINF:-1,XXX - AP-  Alexis Texas ap14684			
+http://vod3.freeddns.org:80/217182172100/ap14684-480p.mp4
+#EXTINF:-1,XXX - AP - Ava Sanchez			
+http://vod3.freeddns.org:80/217182172100/APAva.mp4
+#EXTINF:-1,XXX - AP - Julianna Vega - Julianna Vega\s Ass Is The Best View In Miami - November 09			
+http://vod3.freeddns.org:80/1492028071/APJuli.mp4
+#EXTINF:-1,XXX - AP - Lela Star (Bootylicious! - 14.09.15)			
+http://vod3.freeddns.org:80/217182172100/APLela.mp4
+#EXTINF:-1,XXX - AP - Mandy Muse puts on a show 14/11/16			
+http://vod3.freeddns.org:80/1492028071/MandyMuseShow.mp4
+#EXTINF:-1,XXX - AP - Spicy J			
+http://vod3.freeddns.org:80/51254199141/xxx/APSpicy-MissRaquel.mp4
+#EXTINF:-1,XXX - AP- Aaliyah Grey (Aaliyah Grey - 25.01.16)			
+http://vod1.freeddns.org:80/519692115/APAl.mp4
+#EXTINF:-1,XXX - AP -Harley Jade (Harley Jade and the 40 Inches of fantastic ass - 12.09.16)			
+http://vod3.freeddns.org:80/51254199141/APJade.mp4
+#EXTINF:-1,XXX - AP Jada Stevens (Jada Stevens Is Back - 06.06.16)			
+http://vod3.freeddns.org:80/1492028071/APJada.mp4
+#EXTINF:-1,XXX - AP Jynx Maze - Wiith Jynx Maze 01.08.2016)			
+http://vod3.freeddns.org:80/1492026922/apJyn.mp4
+#EXTINF:-1,XXX - AP Jynx Maze (23.05.16)			
+http://vod3.freeddns.org:80/1492028071/APJyn.mp4
+#EXTINF:-1,XXX - AP Kelsi Monroe 19/10/15			
+http://vod3.freeddns.org:80/217182172100/APKelsi.mp4
+#EXTINF:-1,XXX - AP- Spicy J			
+http://vod1.freeddns.org:80/519692115/xxx/APSpicy-DiamondKitty.mp4
+#EXTINF:-1,XXX - AP- Valerie Kay (Tag-Team back again! - 21.09.15)			
+http://vod3.freeddns.org:80/217182172100/APValerie.mp4
+#EXTINF:-1,XXX - AP Victoria Cakes (Victorias Big ASSets - 04.04.16)			
+http://vod1.freeddns.org:80/1518018170/xxx/APVictoriaCakes-VictoriasBigAssets.mp4
+#EXTINF:-1,XXX - AP.19.07.15 Rose Monroe			
+http://vod3.freeddns.org:80/195181173146/assparade.19.07.15.rose.monroe.mp4
+#EXTINF:-1,XXX - Asa Akira XXX Brazzers Complete Scenes Pack 2016			
+http://vod3.freeddns.org:80/51254199141/xxx/Brazzers-AsaAkira-s01e10.mp4
+#EXTINF:-1,XXX - Asian Bombshells 3 XXX			
+http://vod3.freeddns.org:80/195181164146/ps-abs3.mp4
+#EXTINF:-1,XXX - Asian Fever			
+http://vod3.freeddns.org:80/195181164146/AsianFever.mp4
+#EXTINF:-1,XXX - Asian First Timers XXX			
+http://vod3.freeddns.org:80/195181173146/asian-first-timers-1-720p.mp4
+#EXTINF:-1,XXX - Asian School Girls 2 XXX			
+http://vod3.freeddns.org:80/51254199141/mofoxxx-asisasg2.mp4
+#EXTINF:-1,XXX - Asian School Girls Japan Idols			
+http://vod1.freeddns.org:80/13774202158/Jap1.mp4
+#EXTINF:-1,XXX - Asian Street Meat Thai / Filipino XXX			
+http://vod3.freeddns.org:80/151809784/xxx/asianstreetmeatthaifilipino-s01e16.mp4
+#EXTINF:-1,XXX - Asian Street Meat Vids XXX			
+http://vod3.freeddns.org:80/195181164146/AsianStreetMeat-s01e06.mp4
+#EXTINF:-1,XXX - Asian Strip Mall Massage 3 XXX			
+http://vod3.freeddns.org:80/51254199141/df-asmm3.mp4
+#EXTINF:-1,XXX - AssParade - Christy Mack			
+http://vod1.freeddns.org:80/13774202158/ap10002-720p.mp4
+#EXTINF:-1,XXX - AssParade - Julianna Vega (Ass in the City) XXX Released 16-05-2016			
+http://vod3.freeddns.org:80/217182172100/APJul.mp4
+#EXTINF:-1,XXX - AssParade - Kelsi Monroe Vs. Abella Danger [720p].			
+http://vod3.freeddns.org:80/51254199141/APKelAb.mp4
+#EXTINF:-1,XXX - AssParade Jada Stevens is the Ass Queen - 02.01.2017)			
+http://vod3.freeddns.org:80/1492028071/AssJad1.mp4
+#EXTINF:-1,XXX - AssParade Spicy J			
+http://vod3.freeddns.org:80/195181164146/AssParadeSpicy.mp4
+#EXTINF:-1,XXX - AssParade Valerie Kay - Teaching A Lesson With A Big Ass (04.12.2017)			
+http://vod1.freeddns.org:80/13774202158/ap9416-720p.mp4
+#EXTINF:-1,XXX - AssParade Victoria Banxxx and her 40+ inch ass (05.12.2016)			
+http://vod3.freeddns.org:80/51254199141/AssParadeVic.mp4
+#EXTINF:-1,XXX - Asspirations 2015			
+http://vod1.freeddns.org:80/148251187141/fap-ass2015.mp4
+#EXTINF:-1,XXX - Aubrey Gold (Asking Her Friends Dad For A Ride) NEW 18 October 2015			
+http://vod3.freeddns.org:80/217182172100/tlib_aubrey_gold_bb091515_480p_1000_xxx.mp4
+#EXTINF:-1,XXX - Auditions 17			
+http://vod1.freeddns.org:80/13774202158/Aud17.mp4
+#EXTINF:-1,XXX - August Ames Interracial			
+http://vod3.freeddns.org:80/195181164146/AugustAmesInterracial.mp4
+#EXTINF:-1,XXX - AussieFellatioQueens 30/12/17 Oral Creampie Compilation 2017 XXX			
+http://vod3.freeddns.org:80/195181164146/aussiefellatioqueens.17.12.30.oral.creampie.compilation.2017.mp4
+#EXTINF:-1,XXX - Axel Braun\s MILF Fest 2 XXX			
+http://vod3.freeddns.org:80/519682224/MilfFest2.mp4
+#EXTINF:-1,XXX - Axel Braun\s MILF Fest XXX			
+http://vod3.freeddns.org:80/519682224/MilfFest-s01e05.mp4
+#EXTINF:-1,XXX - Axel Brauns Asian Connection(Wicked Pictures) XXX			
+http://vod3.freeddns.org:80/151809784/AsianConnection-s01e05.mp4
+#EXTINF:-1,XXX - Axxl.Massage Therapy 3 1080p			
+http://vod3.freeddns.org:80/195181173146/anal-massage-therapy-3-1080p.mp4
+#EXTINF:-1,XXX - Axxx Fxxxxx Angels (720p)			
+http://vod3.freeddns.org:80/195181173146/anal-fisting-angels-720p.mp4
+#EXTINF:-1,XXX - Ayano Moriyama DANDY-451			
+http://vod3.freeddns.org:80/1492026922/DANDY-451.mp4
+#EXTINF:-1,XXX - Babes - Alyssia Kent - How She Wants It XXX			
+http://vod3.freeddns.org:80/195181164146/BabesAlyssiaKent.mp4
+#EXTINF:-1,XXX - Babes - Honey Gold - Different Kind of Daddy XXX			
+http://vod3.freeddns.org:80/145239129162/BabesHoneyGoldDifferentKindofDaddy.mp4
+#EXTINF:-1,XXX - Babes Illustrated She Love\s Big Boobs			
+http://vod2.freeddns.org:80/video/babes-illustrated-she-loves-big-boobs-720p.mp4
+#EXTINF:-1,XXX - Babes.19.12.24.Whitney Wright A Christmas Wish For Whitney			
+http://vod3.freeddns.org:80/195181173146/babes.19.12.24.whitney.wright.a.christmas.wish.for.whitney.mp4
+#EXTINF:-1,XXX - BabyGotBoobs 19.02.15.Michele James Big Spotlights			
+http://vod3.freeddns.org:80/195181173146/bgb.19.02.15.michele.james.big.spotlights.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch - Aliza [720p HD]			
+http://vod3.freeddns.org:80/195181173146/BackroomCastingCouchAliza.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch 07/09/20 Bailey 720p			
+http://vod2.freeddns.org:80/video/BackroomCastingCouch.20.09.07.Bailey.720p.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch 18.08.27 Tatiana XXX			
+http://vod3.freeddns.org:80/145239129162/old0619/bcc.18.08.27.tatiana.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch.18.06.25.Bree.XXX.720p			
+http://vod3.freeddns.org:80/195181164146/xxx/BackroomCastingCouch-Bree.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch.18.07.02.Lacey.XXX.720p			
+http://vod3.freeddns.org:80/195181164146/xxx/BackroomCastingCouch-Lacey.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch.18.07.09.Andrea.XXX			
+http://vod3.freeddns.org:80/145239129162/BackroomCastingCouch.18.07.09.Andrea.XXX.SD.MP4-KLEENEX.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch.18.09.17.Lauren.XXX.720p			
+http://vod3.freeddns.org:80/195181173146/bcc.18.09.17.lauren.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch.18.12.10.Scarlett.XXX.720p.MP4-KTR[rarbg]			
+http://vod3.freeddns.org:80/195181173146/bcc.18.12.10.scarlett.mp4
+#EXTINF:-1,XXX - BackroomCastingCouch.20.09.28.Madison.18.Years.Old			
+http://vod2.freeddns.org:80/video/BackroomCastingCouch.20.09.28.Madison.18.Years.OldXXX.720p.MP4-XXX.mp4
+#EXTINF:-1,XXX - BackroomFacials - Natalie Lust- 17.05.18 1080p			
+http://vod1.freeddns.org:80/1518018170/xxx/BackroomFacialsNatalieLust.mp4
+#EXTINF:-1,XXX - Bad Love (Porn Fidelity) XXX			
+http://vod3.freeddns.org:80/195181164146/BadLove.mp4
+#EXTINF:-1,XXX - Bad Teens Go Black 3 XXX			
+http://vod3.freeddns.org:80/51254199141/gush.bad.teens.go.black.3.mp4
+#EXTINF:-1,XXX - BadDaddyPOV - Marica Hase Adopted Japanese Sex Toy			
+http://vod3.freeddns.org:80/195181164146/BadDaddyPOVMaricaHase.mp4
+#EXTINF:-1,XXX - Badmilfs - Audrey Hempburne And Christy Love Sweet Cooch Collaboration [720p]			
+http://vod3.freeddns.org:80/195181173146/BadmilfsAudreyHempburneAndChristyLove.mp4
+#EXTINF:-1,XXX - Banbros18 - Abby Paradise Red Head			
+http://vod3.freeddns.org:80/217182172100/bbe13165_1500.mp4
+#EXTINF:-1,XXX - Bang Bros Clips - Ena Sweet { Ena Sweet likes it when I\m rough  - 05.07.2016 - BangBros } NEW May 07 2016			
+http://vod1.freeddns.org:80/1518018170/xxx/BangBros-EnaSweet.mp4
+#EXTINF:-1,XXX - Bang Bros Invasion 16 XXX			
+http://vod3.freeddns.org:80/51254199141/vbt-bangbrosinv16.mp4
+#EXTINF:-1,XXX - Bang Bros Remastered - Georgia Peach			
+http://vod3.freeddns.org:80/1492028071/BangRemG.mp4
+#EXTINF:-1,XXX - Bang Europe 3 XXX			
+http://vod3.freeddns.org:80/195181173146/bang-europe-3-720p.mp4
+#EXTINF:-1,XXX - Bang Europe 30 XXX			
+http://vod3.freeddns.org:80/51254199141/bang-europe-30-720p.mp4
+#EXTINF:-1,XXX - Bang Europe 50 XXX			
+http://vod3.freeddns.org:80/195181173146/bang-europe-50-720p.mp4
+#EXTINF:-1,XXX - Bang Europe 70 XXX 720p			
+http://vod1.freeddns.org:80/14523911226/bang-europe-70-720p.mp4
+#EXTINF:-1,XXX - Bang Real Teens - Ellie Eilish - Twirls In The Park			
+http://vod3.freeddns.org:80/195181173146/BangRealTeensEllieEilish.mp4
+#EXTINF:-1,XXX - BangBro18 Sara Luvv 18 year old 9th October			
+http://vod1.freeddns.org:80/519692115/BangSaraLuvv.mp4
+#EXTINF:-1,XXX - Bangbros - Aaliyah Grey (Petite Dark Amateur - 20.12.15) rq			
+http://vod3.freeddns.org:80/217182172100/Aaliyah.mp4
+#EXTINF:-1,XXX - Bangbros - Alexis Texas			
+http://vod1.freeddns.org:80/519692115/BangAlexis.mp4
+#EXTINF:-1,XXX - Bangbros - Anna Bell Peaks Oct 2015			
+http://vod3.freeddns.org:80/217182172100/Anna1.mp4
+#EXTINF:-1,XXX - Bangbros - Eva Lovia - Evalution Theory ( July 23			
+http://vod3.freeddns.org:80/151809610/Eva8.mp4
+#EXTINF:-1,XXX - Bangbros - Franceska Jaimes attends the Carnival!			
+http://vod1.freeddns.org:80/519692115/Fran1.mp4
+#EXTINF:-1,XXX - Bangbros - Indigo Vanity Brown Bunny 11.10.15)			
+http://vod1.freeddns.org:80/519692115/BangIndigo.mp4
+#EXTINF:-1,XXX - Bangbros - Keisha Grey NEW (October 06			
+http://vod1.freeddns.org:80/519692115/BangKeisha.mp4
+#EXTINF:-1,XXX - BANGBROS - Tight Teen Alina Li Gets Her Asian Pussy Smashed bbe13239			
+http://vod1.freeddns.org:80/13774202158/bbe13239-720p.mp4
+#EXTINF:-1,XXX - Bangbros [PublicBang] Blondie Fesser XXX			
+http://vod3.freeddns.org:80/151809610/Fesser!.mp4
+#EXTINF:-1,XXX - BangBros 18 - Veronica Rodriguez 05/021/16			
+http://vod1.freeddns.org:80/519692115/BB18Veronica.mp4
+#EXTINF:-1,XXX - BangBros 18 vol 7 XXX			
+http://vod3.freeddns.org:80/195181164146/BangBros18vol7-s01e05.mp4
+#EXTINF:-1,XXX - Bangbros Alexa Grace July 2015			
+http://vod3.freeddns.org:80/151809610/mc14506-720p.mp4
+#EXTINF:-1,XXX - Bangbros Amateurs on a Boat cff12829			
+http://vod1.freeddns.org:80/13774202158/cff12829-720p.mp4
+#EXTINF:-1,XXX - BangBros Bang Bus 72 XXX			
+http://vod3.freeddns.org:80/195181173146/wop-bangbus72.mp4
+#EXTINF:-1,XXX - Bangbros Bangbus 75			
+http://vod3.freeddns.org:80/195181173146/suckxxx-bangbrosbangbus75.mp4
+#EXTINF:-1,XXX - Bangbros Beauties 1 XXX			
+http://vod3.freeddns.org:80/51254199141/BangbrosBeauties1.mp4
+#EXTINF:-1,XXX - Bangbros Becca Diamond			
+http://vod1.freeddns.org:80/13774202158/xxx/Bangbros-BeccaDiamond.mp4
+#EXTINF:-1,XXX - Bangbros Bella Bellz Oct 2015			
+http://vod1.freeddns.org:80/519692115/BangbrosBellaBell.mp4
+#EXTINF:-1,XXX - Bangbros Bella Danger hih13366			
+http://vod3.freeddns.org:80/151809610/hih13366-480p.mp4
+#EXTINF:-1,XXX - Bangbros Carrie Brooks (Breaking In Carrie Brooks - 23.05.15)			
+http://vod3.freeddns.org:80/151809610/Carri1.mp4
+#EXTINF:-1,XXX - Bangbros Cece Capella			
+http://vod3.freeddns.org:80/151809610/hih14570-480p.mp4
+#EXTINF:-1,XXX - Bangbros Columbian Samy cff12304			
+http://vod1.freeddns.org:80/13774202158/cff12304-720p.mp4
+#EXTINF:-1,XXX - Bangbros Filthy Family			
+http://vod3.freeddns.org:80/195181173146/suckxxx-filthyfamily.mp4
+#EXTINF:-1,XXX - BangBros- Gianna Nicole - October 10			
+http://vod3.freeddns.org:80/217182172100/Gianna.mp4
+#EXTINF:-1,XXX - Bangbros Gina Valentina			
+http://vod3.freeddns.org:80/151809610/hih14565-360p.mp4
+#EXTINF:-1,XXX - BangBros Goldie Rush (Goldie Rush gets a taste of a MC - 16.02.16)			
+http://vod1.freeddns.org:80/519692115/BangbrosGoldie.mp4
+#EXTINF:-1,XXX - Bangbros Jessa Rhodes			
+http://vod3.freeddns.org:80/217182172100/Jessa1.mp4
+#EXTINF:-1,XXX - Bangbros Kat & Alexa\s Afternoon			
+http://vod1.freeddns.org:80/519692115/BangKat.mp4
+#EXTINF:-1,XXX - Bangbros -Kymberlee Anne - Nympho Kimberlee			
+http://vod1.freeddns.org:80/1518018170/KAnne.mp4
+#EXTINF:-1,XXX - Bangbros Lucy Lei hih14514			
+http://vod3.freeddns.org:80/151809610/hih14514-360p.mp4
+#EXTINF:-1,XXX - BangBros Lulu Chu 10/09/2019 1080p			
+http://vod3.freeddns.org:80/195181173146/bangbros18.19.09.10.lulu.chu.mp4
+#EXTINF:-1,XXX - Bangbros Luna Columbian in Miami			
+http://vod3.freeddns.org:80/151809610/rm11835.mp4
+#EXTINF:-1,XXX - Bangbros Mia Khalifa  btra13560 BigTitsRoundAsses XXX			
+http://vod1.freeddns.org:80/13774202158/btra13560-720p.mp4
+#EXTINF:-1,XXX - Bangbros Petite Janice Griffith			
+http://vod3.freeddns.org:80/151809610/bbc13725-ge-480p.mp4
+#EXTINF:-1,XXX - BangBros Public Bang 7 XXX			
+http://vod3.freeddns.org:80/51254199141/wop-publicbang7.mp4
+#EXTINF:-1,XXX - Bangbros Public Patty Michova			
+http://vod3.freeddns.org:80/151809610/pb14480-480p.mp4
+#EXTINF:-1,XXX - Bangbros Romi Rain			
+http://vod3.freeddns.org:80/151809610/RomiRain1.mp4
+#EXTINF:-1,XXX - Bangbros Valentina Nappi btcp12054			
+http://vod1.freeddns.org:80/13774202158/btcp12054-720p.mp4
+#EXTINF:-1,XXX - Bangbros.Beauties 1 XXX			
+http://vod3.freeddns.org:80/51254199141/BangbrosBeauties1.mp4
+#EXTINF:-1,XXX - Bangbros18 - Alison Faye			
+http://vod3.freeddns.org:80/217182172100/bbe12516.mp4
+#EXTINF:-1,XXX - BangBros18 - Ashley Adams - Eighteen year old Ashley Adams takes hard pounding  NEW (June 12			
+http://vod3.freeddns.org:80/151809610/Ash88.mp4
+#EXTINF:-1,XXX - BangBros18 - Holly Hendrix - 18 year old Holly Hendrix			
+http://vod3.freeddns.org:80/1492026922/Bangbros18Holly.mp4
+#EXTINF:-1,XXX - BangBros18 - Jane Wilde - Jane Wilde Goes Wild on Her Step-Bro XXX			
+http://vod3.freeddns.org:80/195181164146/BangBros18JaneWildeJaneWildeGoesWild.mp4
+#EXTINF:-1,XXX - BangBros18 - Maya (My Step-Sister) XXX NEW 17.June.2016			
+http://vod3.freeddns.org:80/1492028071/BangBros18Maya.mp4
+#EXTINF:-1,XXX - BangBros18 - Stacie - Shy newbie Stacey gets roughed up			
+http://vod3.freeddns.org:80/1492026922/BangBros18Stacie.mp4
+#EXTINF:-1,XXX - BangBros18 Aidra Fox.XXX.1080p			
+http://vod3.freeddns.org:80/195181173146/bangbros18.18.12.11.aidra.fox.mp4
+#EXTINF:-1,XXX - BangBros18 Alaina Dawson (Alaina Dawson Gets Some - 20.05.16)			
+http://vod3.freeddns.org:80/1492028071/Bangbros18Alaina.mp4
+#EXTINF:-1,XXX - BangBros18 Alaina Dawson (Newbie from the MidWest - 19.02.16)			
+http://vod1.freeddns.org:80/519692115/BangbrosAlaina.mp4
+#EXTINF:-1,XXX - BangBros18 Alice Andrea (Andrea wants a little fun - 10.06.16)			
+http://vod3.freeddns.org:80/1492028071/BangBros18Alice.mp4
+#EXTINF:-1,XXX - BangBros18 Anastasia Knight - Blonde And The Naughty Santa Christmas Special			
+http://vod3.freeddns.org:80/195181164146/BangBros18AnastasiaKnight.mp4
+#EXTINF:-1,XXX - BangBros18 Dolly Little (Post Class Seduction By A Red Head - 29.04.16)			
+http://vod3.freeddns.org:80/51254199141/BangBros18Dolly.mp4
+#EXTINF:-1,XXX - BangBros18 Elsa Jean - 05.08.2016)			
+http://vod3.freeddns.org:80/1492028071/18Els.mp4
+#EXTINF:-1,XXX - BangBros18 Kylie Quinn (Turns Out to be an OK Stepsister) 29 July 2016			
+http://vod3.freeddns.org:80/1492028071/BangBros18Kylie.mp4
+#EXTINF:-1,XXX - BangBros18 Melody Marks 17/09/19			
+http://vod3.freeddns.org:80/195181173146/bangbros18.19.09.17.melody.marks.mp4
+#EXTINF:-1,XXX - BangBros18 Michelle Martinez (06.12.2016)			
+http://vod3.freeddns.org:80/51254199141/BangBros18Mi.mp4
+#EXTINF:-1,XXX - BangBros18 Naomi Woods (The new hot girl - 06.05.16) rq			
+http://vod3.freeddns.org:80/14920271211/NaomiWoods.mp4
+#EXTINF:-1,XXX - BangBros18 Nicole.Bexley Yoga.Partners 08/01/16			
+http://vod1.freeddns.org:80/519692115/BangBros18NicoleYoga.mp4
+#EXTINF:-1,XXX - BangBros18 Sabrina			
+http://vod3.freeddns.org:80/151809610/bbe14425-360p.mp4
+#EXTINF:-1,XXX - BangBros18 Sydney Cole			
+http://vod3.freeddns.org:80/151809610/bbe14xdfghjhfd510.mp4
+#EXTINF:-1,XXX - BangBros18. 09/11/16 Lucie.Kline.XXX 1080p			
+http://vod3.freeddns.org:80/195181164146/bb18.16.11.09.lucie.kline.mp4
+#EXTINF:-1,XXX - BangBros18.18.10.30.Sophia.Leone.XXX.1080p			
+http://vod3.freeddns.org:80/195181173146/bangbros18.18.10.30.sophia.leone.mp4
+#EXTINF:-1,XXX - BangBros18.19.07.16 Gianna Dior			
+http://vod3.freeddns.org:80/195181173146/bangbros18.19.07.16.gianna.dior.mp4
+#EXTINF:-1,XXX - BangBros18.Uma.Jolie.This.great.petite.girl.named.Uma.Jolie			
+http://vod1.freeddns.org:80/1518018170/xxx/BangBros18-UmaJolie.mp4
+#EXTINF:-1,XXX - BangbrosClips - Alaina Dawson (Football Slut)			
+http://vod3.freeddns.org:80/1492028071/BangbrosClipsAlaina.mp4
+#EXTINF:-1,XXX - BangBrosClips - Gabriella Paltrova - Thee Shadow Comme			
+http://vod1.freeddns.org:80/519692115/BangBrosClipsGabriellaPaltrova.mp4
+#EXTINF:-1,XXX - BangbrosClips - Megan Rain			
+http://vod3.freeddns.org:80/151809610/Rain3007.mp4
+#EXTINF:-1,XXX - BangbrosClips Alina Li (BJ Tips With Sexy Asian / bbc13238			
+http://vod1.freeddns.org:80/13774202158/bbc13238-720p.mp4
+#EXTINF:-1,XXX - BangBrosClips Arianna Knight			
+http://vod3.freeddns.org:80/51254199141/ThreesC.mp4
+#EXTINF:-1,XXX - BangBrosClips Bailey Brooke Shows Us What She s Got (25.12.2016)			
+http://vod3.freeddns.org:80/1492026922/ClipBailey.mp4
+#EXTINF:-1,XXX - BangbrosClips Bella (Sexy Amateur Ballerina Fucked / bbc13335			
+http://vod1.freeddns.org:80/13774202158/bbc13335-720p.mp4
+#EXTINF:-1,XXX - BangBrosClips Eva Lovia Evalution Theory - 24.07.15 rq (480p)			
+http://vod3.freeddns.org:80/151809610/EvaXX.mp4
+#EXTINF:-1,XXX - BangBrosClips Evie Olson leans the kitchen and Jmac s cock (16.10.2016) rq			
+http://vod3.freeddns.org:80/51254199141//EvieClean.mp4
+#EXTINF:-1,XXX - BangBrosClips Harlow Harrison and Cristi Ann great together			
+http://vod3.freeddns.org:80/1492028071/BangBrosClipsHarlow.mp4
+#EXTINF:-1,XXX - BangBrosClips Marley Brinx (12.06.16)			
+http://vod3.freeddns.org:80/1492026922/MarleyBrinx.mp4
+#EXTINF:-1,XXX - BangBrosClips Massaging Jessa Rhodes (20.12.2016)			
+http://vod3.freeddns.org:80/51254199141/BangBrosClipsJessa.mp4
+#EXTINF:-1,XXX - BangBrosClips Velvet Rain (Breaking In a Newbie - 18.10.2016)			
+http://vod3.freeddns.org:80/14920271211/Velvet.mp4
+#EXTINF:-1,XXX - BangBus - Alessa Snow (Big tit redhead begs for anal threesome) June 11			
+http://vod1.freeddns.org:80/13774202158/bb13148-720p.mp4
+#EXTINF:-1,XXX - BangBus  Alexis.Avery Black Teen 1080p XXX 07/02/18			
+http://vod3.freeddns.org:80/195181164146/bangbus.18.02.07.alexis.avery.mp4
+#EXTINF:-1,XXX - BangBus - Another One Bites The Dust - Kasey BB7001			
+http://vod1.freeddns.org:80/13774202158/bb7001-1080p.mp4
+#EXTINF:-1,XXX - Bangbus - Aria Banks [720p HD]			
+http://vod3.freeddns.org:80/195181173146/BangbusAriaBanks.mp4
+#EXTINF:-1,XXX - BangBus - Autumn Falls XXX			
+http://vod3.freeddns.org:80/195181173146/BangBusAutumnFalls.mp4
+#EXTINF:-1,XXX - BangBus - Berlyn Toy - Today We Met Crazy The Blasian XXX			
+http://vod3.freeddns.org:80/195181173146/BangBusBerlynToy.mp4
+#EXTINF:-1,XXX - Bangbus - Binky Beaz [720p HD]			
+http://vod3.freeddns.org:80/195181173146/BangbusBinkyBeaz.mp4
+#EXTINF:-1,XXX - BangBus - Blaire Ivory (The Bus Gets Recognized) XXX NEW 13.July.2016			
+http://vod3.freeddns.org:80/195181164146/Blaire.mp4
+#EXTINF:-1,XXX - BangBus - Cristal Caraballo (Fresh Off The Boat Milf) 11.23.16			
+http://vod3.freeddns.org:80/51254199141/BangBusCri.mp4
+#EXTINF:-1,XXX - BangBus - Kelsey Kage - Hot Nerd on the Bus XXX			
+http://vod3.freeddns.org:80/195181164146/BangBusKelseyKage.mp4
+#EXTINF:-1,XXX - BangBus - Kitty Carrera - 05/09/18 XXX			
+http://vod3.freeddns.org:80/145239129162/old0619/BangBusKittyCarrera.mp4
+#EXTINF:-1,XXX - Bangbus - Kylie Rocket [720p HD]			
+http://vod3.freeddns.org:80/195181173146/BangbusKylieRocket.mp4
+#EXTINF:-1,XXX - BangBus - Lexi Lore - Horny 19 Year Old Hops on The Bus  XXX			
+http://vod3.freeddns.org:80/195181164146/BangBusLexiLore.mp4
+#EXTINF:-1,XXX - BangBus - Maria - The Bus Picks Up A Spanish Freak  NEW (BangBros  October 21			
+http://vod3.freeddns.org:80/51254199141/bb14690-480p.mp4
+#EXTINF:-1,XXX - BangBus - Nola Bell Faiyez			
+http://vod3.freeddns.org:80/195181173146/BangBus-NolaBellFaiye.mp4
+#EXTINF:-1,XXX - BangBus - Paris Knight - Surviving The Hurricane One Ride At A Time			
+http://vod3.freeddns.org:80/195181164146/BangBuParisKnights.mp4
+#EXTINF:-1,XXX - BangBus - Rose Monroe - Rose Monroe Twerks on The Bus XXX			
+http://vod3.freeddns.org:80/195181164146/BangBusRoseMonroe.mp4
+#EXTINF:-1,XXX - BangBus - Shae Celestine - Star Maps Dealer Gets Slammed			
+http://vod3.freeddns.org:80/195181164146/BangBusShaeCelestine.mp4
+#EXTINF:-1,XXX - BangBus - Skyla Novea 30-03-2016			
+http://vod1.freeddns.org:80/1518018170/xxx/BangBus-SkylaNovea.mp4
+#EXTINF:-1,XXX - BangBus 14/11/18 Melody.Parker XXX			
+http://vod3.freeddns.org:80/195181173146/BangBus.18.11.14.Melody.Parker.XXX.SD.MP4-KLEENEX.mp4
+#EXTINF:-1,XXX - BangBus 18.08.08.Michele.James XXX			
+http://vod3.freeddns.org:80/145239129162/bangbus.18.08.08.michele.james.mp4
+#EXTINF:-1,XXX - BangBus 19.01.09.Kayla Paris XXX			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.01.09.kayla.paris.mp4
+#EXTINF:-1,XXX - BangBus Alex Harper (Shy tourist- 18.05.16)			
+http://vod3.freeddns.org:80/1492028071/BangBusAlex.mp4
+#EXTINF:-1,XXX - BangBus Alexis Andrews - Big Booty Stripper Takes The Ride (21.02.2018)			
+http://vod3.freeddns.org:80/195181164146/BangBusAlexisAndrews.mp4
+#EXTINF:-1,XXX - BangBus Ally Berry - Allison doesn t get to Orlando riding the			
+http://vod3.freeddns.org:80/1492028071/BangBusAlly.mp4
+#EXTINF:-1,XXX - BangBus Alyssa Cole - Bang Bus to The Rescue (22.06.2016)			
+http://vod3.freeddns.org:80/1492026922/BagA.mp4
+#EXTINF:-1,XXX - BangBus Anastasia Knight - Hot Surfer Gets Railed on The Bus (15.11.2017)			
+http://vod3.freeddns.org:80/217182164125/BangBusAnastasiaKnight.mp4
+#EXTINF:-1,XXX - BangBus Angelica Cruz 03/10/18 XXX 1080p			
+http://vod3.freeddns.org:80/195181173146/bangbus.18.10.03.angelica.cruz.mp4
+#EXTINF:-1,XXX - BangBus Angelica Cruz.XXX 03/10/18			
+http://vod3.freeddns.org:80/195181173146/BangBus.18.10.03.Angelica.Cruz.XXX.SD.MP4-KLEENEX.mp4
+#EXTINF:-1,XXX - BangBus Anna Mae 25/09/2019			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.09.25.anna.mae.mp4
+#EXTINF:-1,XXX - Bangbus Becky Bandini 01/05/2019			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.05.01.becky.bandini.mp4
+#EXTINF:-1,XXX - BangBus Brie Viano 11/12/2019			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.12.11.brie.viano.mp4
+#EXTINF:-1,XXX - BangBus Carmen Rae 26/09/18			
+http://vod3.freeddns.org:80/195181173146/bangbus.18.09.26.carmen.rae.mp4
+#EXTINF:-1,XXX - BangBus Demi Lowe (Scooping up a Chonga - 11.05.16)			
+http://vod3.freeddns.org:80/51254199141/BangBusDemi.mp4
+#EXTINF:-1,XXX - BangBus Haley Reed May 2016			
+http://vod3.freeddns.org:80/1492028071/BangBusHaley.mp4
+#EXTINF:-1,XXX - BangBus Harmony Wonder - Flashing			
+http://vod3.freeddns.org:80/195181164146/BangBusHarmonyWonder.mp4
+#EXTINF:-1,XXX - BangBus Jane Wilde - 19 Year Old Beauty Hops on The Bus (14.02.2018) XXX			
+http://vod3.freeddns.org:80/195181164146/BangBusJaneWilde.mp4
+#EXTINF:-1,XXX - BangBus Kadence Marie - Helping Out An Out Of Towner (04.10.2017)			
+http://vod3.freeddns.org:80/195181164146/BangBusKadenceMarie.mp4
+#EXTINF:-1,XXX - BangBus Kiley Jay Giving Back to Santa 21/12/16			
+http://vod3.freeddns.org:80/51254199141/KileyJay.mp4
+#EXTINF:-1,XXX - BangBus Maddie Winters - Xmas Special With A Sexy Elf			
+http://vod3.freeddns.org:80/195181164146/BangBusMaddieWinters.mp4
+#EXTINF:-1,XXX - BangBus Melody Parker XXX			
+http://vod3.freeddns.org:80/195181173146/BangBusMelodyParker.mp4
+#EXTINF:-1,XXX - BangBus Molly Mae (Goes All in for the Team on the Bang Bus)			
+http://vod3.freeddns.org:80/51254199141/bangMolly.mp4
+#EXTINF:-1,XXX - Bangbus Nala Nova 13/11/2019			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.11.13.nala.nova.mp4
+#EXTINF:-1,XXX - Bangbus Natana Brooke			
+http://vod3.freeddns.org:80/195181173146/Bangbus-NatanaBrooke.mp4
+#EXTINF:-1,XXX - BangBus Naudi Nala XXX 1080p 21/11/18			
+http://vod3.freeddns.org:80/145239129162/old0619/bangbus.18.11.21.naudi.nala.mp4
+#EXTINF:-1,XXX - BangBus Pammy Bee 10/10/18 XXX 1080p			
+http://vod3.freeddns.org:80/195181173146/bangbus.18.10.10.pammy.bee.mp4
+#EXTINF:-1,XXX - Bangbus Roxy Ryder 27/11/2019			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.11.27.roxy.ryder.mp4
+#EXTINF:-1,XXX - BangBus Sadie Creams 04/12/2019			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.12.04.sadie.creams.mp4
+#EXTINF:-1,XXX - BangBus Scarlett (Scarlett\s wild ride on the bus - 17.02.16)			
+http://vod1.freeddns.org:80/519692115/BangBusScarlett.mp4
+#EXTINF:-1,XXX - BangBus Selena Sosa (18 Year Old Brazilian Babe Gets Ditched By Her Boyfriend - 07.12.2016)			
+http://vod3.freeddns.org:80/51254199141/BangBusSelena.mp4
+#EXTINF:-1,XXX - Bangbus Selena Sosa 20/11/2019			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.11.20.selena.sosa.mp4
+#EXTINF:-1,XXX - BangBus Serena.Santos XXX 1080p 28/11/18			
+http://vod3.freeddns.org:80/195181173146/bangbus.18.11.28.serena.santos.mp4
+#EXTINF:-1,XXX - BangBus Tiny Black Pussy for a Big Fat Burrito			
+http://vod3.freeddns.org:80/1492028071/BangBusBur.mp4
+#EXTINF:-1,XXX - BangBus Tommy Diamond.XXX 1080p 05/12/18			
+http://vod3.freeddns.org:80/195181173146/bangbus.18.12.05.tommy.diamond.mp4
+#EXTINF:-1,XXX - BangBus Valentina Jewels - 19 y.o. With Huge Ass Rides On The Bus (28.03.2018)			
+http://vod3.freeddns.org:80/195181164146/BangBusValentinaJewels.mp4
+#EXTINF:-1,XXX - BangBus Vanessa Sky (The BangBus Gets Pulled Over - 12.04.2017			
+http://vod3.freeddns.org:80/51254199141/BangBusVannessa.mp4
+#EXTINF:-1,XXX - BangBus Victoria June - Administrative Opinion (09.08.2017)			
+http://vod3.freeddns.org:80/195181164146/BangBusVictoriaJune.mp4
+#EXTINF:-1,XXX - BangBus Victoria June - Pornstar Takes on Three Random Guys (07.03.2018)			
+http://vod3.freeddns.org:80/195181164146/BangBusVictoriaJune2.mp4
+#EXTINF:-1,XXX - BangBus Yara Skye			
+http://vod3.freeddns.org:80/51254199141/YaraSkye.mp4
+#EXTINF:-1,XXX - BangBus Zoey Reyes (30.11.2016)			
+http://vod3.freeddns.org:80/51254199141/BangBusZoey.mp4
+#EXTINF:-1,XXX - BangBus.19.07.24 Alina Belle			
+http://vod3.freeddns.org:80/195181173146/BangBus.19.07.24.Alina.Belle.XXX.SD.MP4-KLEENEX.mp4
+#EXTINF:-1,XXX - BangBus.19.08.07 Violet Jade			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.08.07.violet.jade.mp4
+#EXTINF:-1,XXX - BangBus.19.08.28 Dylann Vox			
+http://vod3.freeddns.org:80/195181173146/bangbus.19.08.28.dylann.vox.mp4
+#EXTINF:-1,XXX - BangCasting - Alice Andrea 1st Interracial 29/01/16			
+http://vod1.freeddns.org:80/519692115/BangCastAlice.mp4
+#EXTINF:-1,XXX - BangCasting - Chloe Couture - Amateur blonde on cam for the first time.			
+http://vod1.freeddns.org:80/519692115/BangCastingChloe.mp4
+#EXTINF:-1,XXX - BangCasting - Gina Valentina (Casting with 18 year old Brazilian) NEW 15 August 2015			
+http://vod1.freeddns.org:80/519692115/BangCastGina.mp4
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id

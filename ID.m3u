@@ -7,6 +7,8 @@
 
  
  
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="EVENT | BRI LIGA 1",Indosiar FHD no acak
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="INDONESIA",ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
